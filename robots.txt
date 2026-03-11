@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://art2grow.nl/sitemap.xml
